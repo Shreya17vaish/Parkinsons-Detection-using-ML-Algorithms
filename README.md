@@ -1,8 +1,8 @@
 # Parkinsons-Detection-using-ML-Algorithms
 
-IMPLEMENTATION OF THE PROJECT
+IMPLEMENTATION OF THE PROJECT   
 
-OBJECTIVE : To compare the accuracy of different 
+OBJECTIVE : Too compare the accuracy of different 
 machine learning algorithm and secure the approx value of 
 training and testing model accuracy.
 
