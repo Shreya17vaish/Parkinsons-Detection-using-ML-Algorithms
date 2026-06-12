@@ -14,6 +14,6 @@ its early stages, even before symptoms become apparent.
 
 RESULT : Compare the accuracy of training and testing 
 dataset of model whether it is overfitting and underfitting 
-if it is neither from these two then it means algorithm is 
+if it's neither from these two then it means algorithm is 
 performing well on the dataset. SVM is performing better 
 in training as well as testing than the KNN and RF.
