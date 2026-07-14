@@ -18,7 +18,5 @@ if it's neither from these two then it means algorithm is
 performing well on the dataset. SVM is performing better 
 in training as well as testing than the KNN and RF.
 
-password=arnav@420
-token=12345678
-api_key=ak-pk-gyw1431
+
 
